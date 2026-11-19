@@ -1,0 +1,45 @@
+{
+  "author": {
+    "id": "au-mwnjth3uugy2",
+    "keyId": "ec4515b3c26e",
+    "name": "Billsj"
+  },
+  "category": "经济",
+  "changelog": "首次上架：吉他海四虚拟商人、中文订单与个人盈亏",
+  "conflicts": [],
+  "delisted": false,
+  "description": "在吉他海四模拟 36 位虚拟商人。自有仓库、急售补单、小单与大单共存，并提供中文订单、成交日志与个人盈亏。仅供本机单机使用，无需独立市场服务。",
+  "displayName": "吉他海四超网市场",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/billyyyq/evejs-mod-jita-night-market/releases/download/v0.1.1/jita-night-market-0.1.1.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261115.2"
+  ],
+  "featured": false,
+  "highlights": [
+    "36 位虚拟商人分属 10 家虚构军团，从自有仓库挂单，也会买玩家的公开单。没钱时优先急售；小单不足时补货，大单保持较慢成交节奏。",
+    "购票、开奖、交付和退款走 EveJS 原版规则。游戏左侧「吉他夜市」可查商人余额、仓库、中文订单、最近交易及个人盈亏；点订单标题可跳到原生详情。",
+    "盈亏从初次启用开始按本地参考价估算，计入可确认的税费、超核、票款和奖品，不回算历史。"
+  ],
+  "history": [],
+  "id": "jita-night-market",
+  "publishedAt": "2026-11-19",
+  "readme": [
+    "把吉他海四变成一个有本地商人、仓库、急售、小单、大单和中文流水的单机超网。不需要独立市场服务，不连接 EVE 正式服。"
+  ],
+  "repo": "https://github.com/billyyyq/evejs-mod-jita-night-market",
+  "requiresRestart": true,
+  "sha256": "0293f7214535a8fcb2fb8266c9af0574a9c4b6cdbdc1a3f6c39db333f1e5a5ae",
+  "sizeBytes": 62892,
+  "tags": [
+    "超网",
+    "吉他",
+    "单机"
+  ],
+  "version": "0.1.1"
+}
